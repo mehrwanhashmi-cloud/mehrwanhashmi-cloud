@@ -29,6 +29,6 @@ A Retrieval-Augmented Generation (RAG) FAQ assistant using Amazon Bedrock Knowle
 
 Junior Cloud Engineer · Cloud Support Engineer · DevOps Engineer (Junior) · Infrastructure Engineer — remote or NJ-based.
 
-📫 Reach me at mehrwanw@gmail.com or [LinkedIn](https://www.linkedin.com/in/mehrwanhashmi/)
+📫 Reach me at mehrwanhashmi@gmail.com or [LinkedIn](https://www.linkedin.com/in/mehrwanhashmi/)
 
 
